@@ -1,0 +1,29 @@
+# Python Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks & Checkpoints
+*.ipynb
+.ipynb_checkpoints/
+
+# Auxiliary files
+estrutura_churn.txt
+
+# Environment variables & secrets
+.env
+*.pem
+
+# Model binaries & temporary folders
+data/models/
+data/processed/
+data/audited/
+tmp_auditoria/
+*.pkl
+
+# Virtual environments & IDE settings
+.venv/
+venv/
+env/
+.vscode/
+.idea/
