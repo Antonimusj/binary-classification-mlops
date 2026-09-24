@@ -324,6 +324,6 @@ The audited dataset is specifically used to simulate changes in model performanc
 
 ## Author
 
-**Antonio José**
+**José Antônio Da Silva**
 
 Data Science Student | Machine Learning | Data Engineering | MLOps
